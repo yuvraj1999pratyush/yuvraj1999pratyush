@@ -1,8 +1,8 @@
 ### Aloha!! 👋
 
-Pratyush Here. My main interests are Web Developement and Machine Learning. Lots of knowledge out there so learn and grow.
+Pratyush Here. My main interests are Microservices and Webservices. Lots of knowledge out there so learn and grow.
 
-- I’m currently working on ...Improving Myself ☮️
+- I’m currently working on ...Developing Myself ☮️
 - I’m currently learning ...SpringBoot 🤓
 - I’m looking to collaborate on ...Any Platform 🤝
 - I’m looking for help with ...Data Structures, Algorithms and MySQL 👨‍🏫
