@@ -1,13 +1,10 @@
-### Aloha!! 👋
+### HELLO WROLD!
 
-Pratyush Here. My main interests are Microservices and Webservices. Lots of knowledge out there so learn and grow.
+Pratyush Here, Now here is a cliche... Hardwork, Smartwork and Growth for Lifetime
 
-- I’m currently working on ...Developing Myself ☮️
-- I’m currently learning ...SpringBoot and React 🤓
-- I’m looking to collaborate on ...Any Platform 🤝
-- I’m looking for help with ...Data Structures, Algorithm 👨‍🏫
-- Ask me about ...Sports and Healthy lifestyle ⚽
+- I’m currently working on ...Product Development for multiple Projects ☮️
+- I’m looking for help with ...Data Structures And Algorithm 👨‍🏫
+- Ask me about ...Sports and Healthy Lifestyle ⚽
 - How to reach me: ...email_id: yuvraj1999pratyush@gmail.com 📧
 - Pronouns: ...He/Him 🧔
-- Fun fact: ...I actully like people 👯
 
